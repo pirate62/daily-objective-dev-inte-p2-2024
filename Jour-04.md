@@ -4,8 +4,8 @@ Benjamin
 
 ### Jeudi 21/03/2024
 
-- [ ] Découverte de VS Code
-- [ ] Comprendre le web (Openclassrooms)
-- [ ] Faire le parcours Git-it (Nodeschool.io)
-- [ ] Faire ses premiers commits sur les daily objectives
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [x] Découverte de VS Code
+- [x] Comprendre le web (Openclassrooms)
+- [x] Faire le parcours Git-it (Nodeschool.io)
+- [x] Faire ses premiers commits sur les daily objectives
+- [x] Faire ses premiers pushs des daily-objectives sur son compte Github
