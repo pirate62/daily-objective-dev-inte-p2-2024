@@ -6,8 +6,8 @@ Hachemi
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
-  - [ ] Créer un cheat sheet sur Gitflow (en groupe)
+- [x] Découvrir Gitflow
+  - [x] Créer un cheat sheet sur Gitflow (en groupe)
 
 
 ### Github
