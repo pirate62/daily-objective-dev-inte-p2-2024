@@ -4,7 +4,7 @@ Benjamin
 
 ## Vendredi 29/03/2024
 
-- [ ] Travailler sur le brief "Collaboration pour la rédaction de Cheat Sheets"
+- [x] Travailler sur le brief "Collaboration pour la rédaction de Cheat Sheets"
 
 ## Optionnel :
 
