@@ -8,4 +8,4 @@ Benjamin
 
 ## Optionnel :
 
-- [ ] Rattrapage sur les notions mal comprises des semaines précédentes
+- [x] Rattrapage sur les notions mal comprises des semaines précédentes
