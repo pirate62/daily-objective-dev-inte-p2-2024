@@ -24,5 +24,5 @@ Hachemi
   - [ ] Editeur 
   - [ ] Différenciateur (par ex : Delta) 
   - [ ] Aliases 
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Comprendre la différence entre config locale, globale et système
 
