@@ -4,25 +4,25 @@ Hachemi
 
 ### Mercredi 20/03/2024
 
-- [x] Pimper son terminal : 
-    - [x] Installation de `ZSH`
-    - [x] Installation de `Ohmyzsh`
-    - [x] configuration de `ZSH` comme shell par défaut
-    - [x] Installation et configuration de `Powelevel 10K`
-    - [x] Allez voir les plugins de `Ohmyzsh`
-- [x] Création de compte Github
-- [x] Brancher son terminal en SSH avec Github
-- [x] Installation et configuration de Git
-- [x] Comprendre le versionning
-- [x] Comprendre le fonctionnement de Git
-  - [x] Comprendre le staging de Git
-  - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [x] git init
-    - [x] git add
-    - [x] git status
-    - [x] git commit
-    - [x] git remote
-    - [x] git pull
-    - [x] git push
-    - [x] git clone
-    - [x] git remote
+- [X] Pimper son terminal : 
+    - [X] Installation de `ZSH`
+    - [X] Installation de `Ohmyzsh`
+    - [X] configuration de `ZSH` comme shell par défaut
+    - [X] Installation et configuration de `Powelevel 10K`
+    - [X] Allez voir les plugins de `Ohmyzsh`
+- [X] Création de compte Github
+- [X] Brancher son terminal en SSH avec Github
+- [X] Installation et configuration de Git
+- [X] Comprendre le versionning
+- [X] Comprendre le fonctionnement de Git
+  - [X] Comprendre le staging de Git
+  - [X] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    - [X] git init
+    - [X] git add
+    - [X] git status
+    - [X] git commit
+    - [X] git remote
+    - [X] git pull
+    - [X] git push
+    - [X] git clone
+    - [X] git remote

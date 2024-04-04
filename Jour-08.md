@@ -6,22 +6,22 @@ Hachemi
 
 ### Gitflow
 
-- [x] Découvrir Gitflow
-  - [x] Créer un cheat sheet sur Gitflow (en groupe)
+- [X] Découvrir Gitflow
+  - [X] Créer un cheat sheet sur Gitflow (en groupe)
 
 
 ### Github
 
-- [x] Découverte de Github CLI
-  - [ ] Installation et connexion
-  - [ ] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
-  - [x] Finalisation de son profile Github
+- [X] Découverte de Github CLI
+  - [X] Installation et connexion
+  - [X] Faire le tour du propriétaire
+  - [X] Intégration de `gh` dans son workflow
+  - [X] Finalisation de son profile Github
 
 ### NodeJS
 
-- [x] Installation de NodeJS
-- [x] Découverte de "NPM", "Yarn" et "PNPM"
+- [X] Installation de NodeJS
+- [X] Découverte de "NPM", "Yarn" et "PNPM"
   - [ ] Comprendre les différences entre les package managers et en choisir un
   - [ ] Savoir faire les commandes de bases :
     - [ ] Installer un package (local et global)

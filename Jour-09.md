@@ -6,4 +6,4 @@ Benjamin
 
 ### Brief :
 
-- [x] Travailler sur le brief "Collaboration pour la rédaction de Cheat Sheets"
+- [X] Travailler sur le brief "Collaboration pour la rédaction de Cheat Sheets"

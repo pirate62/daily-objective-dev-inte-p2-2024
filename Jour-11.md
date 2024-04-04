@@ -6,13 +6,13 @@ Benjamin
 
 ### Git
 
-- [x] Comprendre le merge dans Git
-  - [x] Comprendre le "fast forward"
-  - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
-- [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-  - [x] Savoir utiliser le `git rebase`
+- [X] Comprendre le merge dans Git
+  - [X] Comprendre le "fast forward"
+  - [X] Quelle est la différence entre un "commit" et un "merge commit" ?
+- [X] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+  - [X] Savoir utiliser le `git rebase`
 
 ### IA
 
-- [x] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
-- [x] Partager ses trucs et astuces sur l'utilisation des IAs
+- [X] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
+- [X] Partager ses trucs et astuces sur l'utilisation des IAs
