@@ -8,8 +8,8 @@ Benjamin
 
 - [X] Comprendre la différence entre `git reset` et `git revert`
 - [X] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Comprendre et utiliser le `git diff` (quelle utilité)
+- [X] Comprendre l'utilité et le fonctionnement de `git stash`
+- [X] Comprendre et utiliser le `git diff` (quelle utilité)
 - [X] Comprendre la différence entre `git log` et `git show` + les flags principaux
 - [X] Comprendre et utiliser le `git fetch`
 
@@ -25,4 +25,4 @@ Benjamin
   - [X] Comprendre la différence entre config locale, globale et système
 - [X] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
 - [X] Savoir travailler avec `git fetch`
-  - [ ] À quoi sert la commande `git fetch —prune`
+  - [X] À quoi sert la commande `git fetch —prune`
