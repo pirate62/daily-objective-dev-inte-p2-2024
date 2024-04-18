@@ -6,9 +6,9 @@ Hachemi
 
 ### CSS
 
-- [ ] Revoir les notions importantes de CSS : 
-  - [ ] Box model
-  - [ ] Positionnement (relatif, absolu, fixed et sticky)
-  - [ ] Combinateurs (`>`, `+`, etc…)
-  - [ ] Cascade, Héritage, Spécicifité
-  - [ ] Flexbox
+- [X] Revoir les notions importantes de CSS : 
+  - [X] Box model
+  - [X] Positionnement (relatif, absolu, fixed et sticky)
+  - [X] Combinateurs (`>`, `+`, etc…)
+  - [X] Cascade, Héritage, Spécicifité
+  - [X] Flexbox
