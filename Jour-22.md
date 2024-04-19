@@ -19,4 +19,4 @@ Hachemi
   - [x] Comprendre le mécanisme du preprocessing (input => output)
   - [x] Découvrir le préprocesseur CSS le plus répandu : SASS
     - [x] Installation de SASS (npm version)
-    - [ ] Savoir compiler du SCSS (`sass --watch`)
+    - [X] Savoir compiler du SCSS (`sass --watch`)
